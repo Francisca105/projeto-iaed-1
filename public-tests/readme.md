@@ -17,3 +17,7 @@ Testa os incorrect sort options do comando 'c'. (i, in, inversos)
 #### Teste 20
 
 Quando crias uma carreira e pedes o output sem meter ligações.
+
+#### Teste 21
+
+Ao criar uma ligação com uma carreira que exista e duas paragens que não existem terá que fazer print da paragem da primeira paragem.
