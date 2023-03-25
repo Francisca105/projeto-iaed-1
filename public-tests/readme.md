@@ -13,3 +13,7 @@ Um teste para verificar se quando a paragem tem no nome (com aspas) um \t se de 
 #### Teste 19
 
 Testa os incorrect sort options do comando 'c'. (i, in, inversos)
+
+#### Teste 20
+
+Quando crias uma carreira e pedes o output sem meter ligações.
