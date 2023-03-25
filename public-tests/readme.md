@@ -9,3 +9,7 @@ Este teste é bastante simples, só para testar o parâmetro inverso dentro do c
 #### Teste 18
 
 Um teste para verificar se quando a paragem tem no nome (com aspas) um \t se de facto guardam como \t.
+
+#### Teste 19
+
+Testa os incorrect sort options do comando 'c'. (i, in, inversos)
