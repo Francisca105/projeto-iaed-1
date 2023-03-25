@@ -5,3 +5,7 @@ Toda a informação obtida dos testes públicos do professor (1-16) pode ser enc
 #### Teste 17
 
 Este teste é bastante simples, só para testar o parâmetro inverso dentro do comando 'c'.
+
+#### Teste 18
+
+Um teste para verificar se quando a paragem tem no nome (com aspas) um \t se de facto guardam como \t.
