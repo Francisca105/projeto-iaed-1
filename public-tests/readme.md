@@ -25,3 +25,7 @@ Ao criar uma ligação com uma carreira que exista e duas paragens que não exis
 #### Teste 22
 
 Testa o máximo de caracteres imposto pelo enunciado (20 para o nome da carreira e 50 para as paragens).
+
+#### Teste 23
+
+Tentei fazer com que testasse um pouco de tudo.
