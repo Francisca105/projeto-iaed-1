@@ -21,3 +21,7 @@ Quando crias uma carreira e pedes o output sem meter ligações.
 #### Teste 21
 
 Ao criar uma ligação com uma carreira que exista e duas paragens que não existem terá que fazer print da paragem da primeira paragem.
+
+#### Teste 22
+
+Testa o máximo de caracteres imposto pelo enunciado (20 para o nome da carreira e 50 para as paragens).
