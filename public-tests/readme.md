@@ -29,3 +29,7 @@ Testa o máximo de caracteres imposto pelo enunciado (20 para o nome da carreira
 #### Teste 24
 
 Simples teste de carreiras circulares com 2 carreiras diferentes e algumas paragens.
+
+#### Teste 25
+
+Testa os erros do comando ligação e a ordem pelo qual aparecem.

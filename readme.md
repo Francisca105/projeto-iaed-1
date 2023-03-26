@@ -9,7 +9,7 @@ Projeto desenvolvido para a cadeira de Introdução aos Algoritmos e Estruturas 
 
 
 
-## Como usar os testes públicos feitos por mim *(17-24)*
+## Como usar os testes públicos feitos por mim *(17-25)*
 
 Para usar esses testes podes fazer
 
